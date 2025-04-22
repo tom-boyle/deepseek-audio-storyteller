@@ -2,3 +2,7 @@ transformers
 torch
 TTS
 ffmpeg-python
+python-dotenv
+accelerate
+sentencepiece
+transformers
